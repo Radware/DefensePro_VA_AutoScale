@@ -1,0 +1,4 @@
+net health-check interface set 1
+net traffic-encapsulation status set 1
+net custom-metrics engines-mean-cpu-utilization status set 1
+net custom-metrics engines-mean-cpu-utilization interval set 1
